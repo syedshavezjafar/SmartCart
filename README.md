@@ -29,9 +29,9 @@ These clusters help businesses implement **data-driven marketing strategies**.
 
 ---
 
-## Dataset Description
+## Dataset
 
-Each row in the dataset represents a **single customer**.
+The dataset used in this project is not included in the repository.
 
 ### Customer Demographics
 
